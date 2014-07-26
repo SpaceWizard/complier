@@ -1,0 +1,39 @@
+allstatementsErrors{
+
+//declarations
+pixel p;
+int i;
+int j;
+boolean b1;
+boolean b2;
+image image1;
+image image2;
+
+//statements
+//assignment statements
+image1.pixels[x,y] = {{Z,0,Z};
+
+i = 3;
+j = i + 4;
+p = {{Z,0,Z}};
+image1 = "image.jpg";
+image2 = "another_image.jpg";
+image1.pixels[3,4]red = 55;
+image1.shape = [i,j];
+image1.location = 45,55];
+image1.visible = true;
+
+pause 3;
+
+
+
+i = (i < 2?0 : 1);
+pause 3;
+while (i < j){
+if( i == 0){
+image1.pixels[x,y] = {{Z,0,Z}}
+image1.pixels[3,4]red = 55;
+image1.shape = [i,j];
+}
+}
+}
